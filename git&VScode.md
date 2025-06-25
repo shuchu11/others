@@ -1,9 +1,9 @@
+ref : https://youtu.be/FKXRiAiQFiY?si=cfopXxS0cGPyzhx4
 **pre-required**
 ```
 git config --global user.name "shuchu11" # 輸入名稱
 git config --global user.email "2018310ruin@gmail.com"  # 輸入email
 ```
-ref : https://youtu.be/FKXRiAiQFiY?si=cfopXxS0cGPyzhx4
 **general command**
 查看檔案狀態
 ```
