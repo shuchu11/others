@@ -1,4 +1,4 @@
-ref : https://youtu.be/FKXRiAiQFiY?si=cfopXxS0cGPyzhx4
+ref : https://youtu.be/FKXRiAiQFiY?si=cfopXxS0cGPyzhx4 \
 **pre-required**
 ```
 git config --global user.name "shuchu11" # 輸入名稱
