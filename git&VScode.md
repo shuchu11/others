@@ -1,6 +1,6 @@
-ref : https://youtu.be/FKXRiAiQFiY?si=cfopXxS0cGPyzhx4 \
+ref : https://youtu.be/FKXRiAiQFiY?si=cfopXxS0cGPyzhx4 
 
-下載 git ( http://git-scm.com/downloads ) \
+下載 git ( http://git-scm.com/downloads ) 
 
 打開PowerShell 在Terminal輸入
 ```
@@ -35,6 +35,7 @@ cd {reponstory 名稱}
 ## EX2 如何編輯並儲存檔案 ?
 edit file > `Ctrl + S`儲存 > `git add .` > `git commit -m "建立還原點"`
 
+## 如何一邊寫Markdown筆記一邊預覽筆記
 
 **general command**
 查看檔案狀態
