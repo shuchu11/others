@@ -36,6 +36,8 @@ cd {reponstory 名稱}
 edit file > `Ctrl + S`儲存 > `git add .` > `git commit -m "建立還原點"`
 
 ## 如何一邊寫Markdown筆記一邊預覽筆記
+右上角的「📘 書本圖示」
+圖示名稱是：Open Preview to the Side
 
 **general command**
 查看檔案狀態
