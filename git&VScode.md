@@ -1,5 +1,17 @@
 ref : https://youtu.be/FKXRiAiQFiY?si=cfopXxS0cGPyzhx4 \
-**pre-required**
+**pre-required** \
+下載 git ( http://git-scm.com/downloads ) \
+
+打開PowerShell 在Terminal輸入
+```
+git --version
+```
+如果跑出git編號代表成功，EX : 
+```
+git version 2.50.0.windows.1
+```
+
+
 ```
 git config --global user.name "shuchu11" # 輸入名稱
 git config --global user.email "2018310ruin@gmail.com"  # 輸入email
