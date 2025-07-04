@@ -11,7 +11,7 @@ git --version
 git version 2.50.0.windows.1
 ```
 
-**pre-required** \
+**pre-required** 
 ```
 git config --global user.name "shuchu11" # 輸入名稱
 git config --global user.email "2018310ruin@gmail.com"  # 輸入email
