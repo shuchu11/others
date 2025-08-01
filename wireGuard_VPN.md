@@ -1,5 +1,5 @@
 you can follow the steps blew and link into our server.
-# Download WireGuard
+* Download WireGuard
 https://www.wireguard.com/install/
 
 * **Follow the steps blew**
